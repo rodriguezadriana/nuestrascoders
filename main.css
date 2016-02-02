@@ -1,1 +1,42 @@
-/* Inserta tu código aqui */
+body{
+	background: #888;
+}
+
+
+.galeria{
+	border-style: dotted;
+	border-radius: 25px;
+	width: 50%;
+	height: 50%;
+	background-color: #444;
+	margin:auto;
+
+	
+}
+
+ img{
+     
+	border-style: dotted;
+	background-color: red;
+	
+	height:150px;
+	width: 150px;
+	margin: 30px;
+	
+	
+    -webkit-filter: sepia(1);
+   
+
+
+}
+#lado{
+
+    display: inline-block;
+}
+
+p{
+	 font-size: 100%;
+    font-style: italic;
+    text-align: center;
+    color:#ffffff;
+ }
